@@ -280,3 +280,7 @@ streams than it agreed to accept.
 - **Directories are not supported** — files only.
 - Every send of an unchanged file after the first reads nothing (see
   [Manifest cache](#manifest-cache)); a changed file is hashed from scratch.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
